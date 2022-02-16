@@ -1,6 +1,6 @@
 # Public Heart Animation for Telegram
 
-##Тутор для пользователей iOS и Android
+## Тутор для пользователей iOS и Android
 
 1. Регистрируетесь на сайте https://replit.com/ любым удобным способом
 2. Кликаете на синюю кнопку "+Create"
