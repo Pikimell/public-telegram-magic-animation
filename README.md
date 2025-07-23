@@ -1,20 +1,22 @@
 # Public Heart Animation for Telegram
 
-## Тутор для пользователей iOS и Android
+## Tutorial for iOS and Android users
 
-1. Регистрируетесь на сайте https://replit.com/ любым удобным способом
-2. Кликаете на синюю кнопку "+Create"
-3. Выйдет окошечко "Create a repl", с кнопкой "Import from GitHub". Нажимаете на данную кнопку. 
-4. В строку "github,com/user/repo" (над которой написано "GitHub URL") вписываете ссылку - https://github.com/Pikimell/public-telegram-magic-animation (кликните на текст чтобы скопировать его)
-5. Нажимаете на синюю кнопку "+Import from GitHub"
-6. Ждете конец загрузки. После окончания, обновляете страницу. 
-7. Нажимаете на "Console" внизу страницы
-8. Вводите:
-`python3 -m pip install telethon && python3 -m pip install pyarmor && python3 index.py`  И нажимаете Enter на клавиатуре
-9. Далее следуйте инструкции
-10. Если выходит сообщение "Please enter your phone (or bot token):" - вводите свой номер для создания сессии и далее указываете код телеграмма
-11. При удачном запуске не забудь отблагодарить автора (подписывайся на иснтаграм - *@pikimell*)
-12. В любом чате пишете сообщение которое вы указали в консоли
-13. Для корректной работы браузер и вкладку не закрывать (можно переключаться на другие приложения). Если вы все таки закрыли браузер или программа просто перестала работать, переходим к пункту 7
+1. Register on the website https://replit.com/ in any convenient way
+2. Click on the blue “+Create” button
+3. A “Create a repl” window will appear with an “Import from GitHub” button. Click on this button. 
+4. In the “github,com/user/repo” field (above which is written “GitHub URL”), enter the link - https://github.com/Pikimell/public-telegram-magic-animation (click on the text to copy it)
+5. Click on the blue “+Import from GitHub” button
+6. Wait for the download to complete. Once it is finished, refresh the page. 
+7. Click on “Console” at the bottom of the page.
+8. Enter:
+`python3 -m pip install telethon && python3 -m pip install pyarmor && python3 index.py`  and press Enter on your keyboard.
+9. Then follow the instructions.
+10. If the message “Please enter your phone (or bot token):” appears, enter your number to create a session and then enter the Telegram code.
+11. If the launch is successful, don't forget to thank the author (follow them on Instagram - *@pikimell*).
+12. In any chat, write the message you specified in the console
+13. For correct operation, do not close the browser and tab (you can switch to other applications). If you did close the browser or the program simply stopped working, go to step 7
 
-**Данный способ также можно без проблем провернуть на ПК**
+**This method can also be used on a PC without any problems**
+
+Translated with DeepL.com (free version)
